@@ -1,0 +1,21 @@
+repositories:
+  mara:
+    type: git
+    url: https://github.com/AcutronicRobotics/MARA.git
+    version: dashing
+  HRIM:
+    type: git
+    url: https://github.com/erlerobot/HRIM.git
+    version: Coliza
+  robotiq_modular_gripper:
+    type: git
+    url: https://github.com/AcutronicRobotics/robotiq_modular_gripper.git
+    version: dashing
+  hans_modular_servomotor:
+    type: git
+    url: https://github.com/AcutronicRobotics/hans_modular_servomotor.git
+    version: dashing
+  control_msgs:
+    type: git
+    url: https://github.com/erlerobot/control_msgs/
+    version: crystal
