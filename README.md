@@ -158,7 +158,7 @@ This ROS dashing workspace is created on Ubuntu 18.04.
 
 ## FAQ
 
-- **I ran into xyz issue while running above package, what do I do?**
+- **I ran into some issue while running above package, what to do now?**
     - Simply contact me!
 
 ---
