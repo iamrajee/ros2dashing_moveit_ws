@@ -52,27 +52,8 @@ This ROS dashing workspace is created on Ubuntu 18.04.
 
 
 ## Package description
-* ## [firstpkg](src/firstpkg)
-    first pkg to create simple talker and listener.*
-
-    Terminal 1:
-    ```
-    $ roscore
-    $ rosrun firstpkg talker.py
-    ```
-    Terminal 2:
-    ```
-    $ rosrun firstpkg listen.py
-    ```
-
-
-* ## [manualcontrol](src/manualcontrol)
-    ![RAWBOT 2.0](demogif/RAWBOT.gif)\
-    See full video [here](https://youtu.be/wrBw4yES4Eo).
-    *In this pkg is create for a robot name RAWBOT,which is surveling robot.*
-
-* ## [manualcontrol_slave](src/manualcontrol_slave)
-    *This pkg is similar to manualcontrol with some more functionality and modification, and it is meant to be used on ROS Master which is used as Slave in the system on robots*
+* ## [helloworldhelloworld](src/helloworld)
+    helloworld pkg if first package.*
 
 ---
 <br/><br/>
