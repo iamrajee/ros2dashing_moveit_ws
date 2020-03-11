@@ -52,7 +52,7 @@ This ROS dashing workspace is created on Ubuntu 18.04.
 
 
 ## Package description
-* ## [helloworldhelloworld](src/helloworld)
+* ## [helloworld](src/helloworld)
     > helloworld pkg if first package.
 
 ---
