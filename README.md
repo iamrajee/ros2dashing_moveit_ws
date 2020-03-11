@@ -75,7 +75,7 @@ This ROS dashing workspace is created on Ubuntu 18.04.
     all:
         make run
     run:
-        catkin_make #catkin_make_isolated
+        colcon build --symlink-install
         bash refresh.sh
     ```
     > It will build the workspace . Run it as `make`
