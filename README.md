@@ -10,7 +10,6 @@ This ROS2 dashing workspace is created on Ubuntu 18.04. Here I have worked on so
 <br/><br/>
 
 ## Table of content
-- [Maintainer](https://github.com/iamrajee/ros2dashing_moveit_ws#maintainer)
 - [Installation](https://github.com/iamrajee/ros2dashing_moveit_ws#installation)
 - [Package description](https://github.com/iamrajee/ros2dashing_moveit_ws#package-description)
 - [Helper scripts](https://github.com/iamrajee/ros2dashing_moveit_ws#helper-scripts)
